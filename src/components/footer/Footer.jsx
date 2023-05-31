@@ -46,7 +46,6 @@ function Footer() {
             <span>Get Inspired</span>
             <span>TutUp Select</span>
             <span>TutUp Workspace</span>
-            <span>Learn</span>
             <span>Working Not Working</span>
           </div>
         </div>
