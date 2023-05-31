@@ -39,7 +39,6 @@ function Footer() {
             <span>Community hub</span>
             <span>Invite a Friend</span>
             <span>Become a Tutor</span>
-            <span>Community Standards</span>
           </div>
           <div className="item">
             <h2>More From TutUp</h2>
