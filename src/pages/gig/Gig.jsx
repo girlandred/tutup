@@ -45,7 +45,7 @@ function Gig() {
             but i'm to lazy to write something.
           </p>
           <div className="seller">
-            <h2>About The Seller</h2>
+            <h2>About The Tutor</h2>
             <div className="user">
               <img
                 src="https://images.pexels.com/photos/720327/pexels-photo-720327.jpeg?auto=compress&cs=tinysrgb&w=1600"

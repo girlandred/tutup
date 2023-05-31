@@ -446,17 +446,17 @@
   resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.54.0.tgz#f92f6b646533776a41bc62b650d2a03f1e282af8"
   integrity sha512-nElTXkS+nMfDNMkWfLmyeqHQfMGJ1JjrjAVMibV61Oc/rYdUv0cKRYCi1l4ivZ5SySB3vQLcLolxbKBkbNznZA==
 
-"@tanstack/query-core@5.0.0-alpha.43":
-  version "5.0.0-alpha.43"
-  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.0.0-alpha.43.tgz#9cf63abbdd9e0de395b4af520bef835d470313da"
-  integrity sha512-/7cluwYBE9EiyvhIPB1kXYOSwFEp5nEvKdXCcTohF+kOm/b28Y0b27E0kLYPPiUBOF5THsUQf9zXn2S2Yl1toA==
+"@tanstack/query-core@^5.0.0-alpha.43":
+  version "5.0.0-alpha.44"
+  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.0.0-alpha.44.tgz#77934455bff6be324df6325c622ef7615c0dbc08"
+  integrity sha512-6up7Kf2nmB9IbhzXtaBTDjGdx6maKi1Gp+zbAqzJ+VguCFLMT5nkitP5f4OlXBeZs/fdfgB0ChnFy+gcHEEpPg==
 
 "@tanstack/react-query@^5":
-  version "5.0.0-alpha.43"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.0.0-alpha.43.tgz#55eebd035fe8549c5cde923693ef58066e1110e6"
-  integrity sha512-/ntCw1CMO8UVNPg8IGZoAFva0EZ+mGWK2E6v1B55J4NZJ3VFTcY2ZFsBp+z3//GTmvXbzfJVyDUNHMLOO49Aew==
+  version "5.0.0-alpha.44"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.0.0-alpha.44.tgz#43ac9613b0271fc46c31f34fe2b022e83e73bcae"
+  integrity sha512-dCFShpihV3DHROHVidfS/m9U4EEewtezYTNpz+VtQ8Vht6Nz7BzQknGu3cdTdMH1fili+Lp/eqnSgF4xk4Anvg==
   dependencies:
-    "@tanstack/query-core" "5.0.0-alpha.43"
+    "@tanstack/query-core" "^5.0.0-alpha.43"
 
 "@types/prop-types@*":
   version "15.7.5"

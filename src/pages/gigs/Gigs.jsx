@@ -23,7 +23,7 @@ function Gigs() {
     <div className="gigs">
       <div className="container">
         <span className="breadcrumbs">TutUp > History ></span>
-        <h1>AI Artists</h1>
+        <h1>History Tutors</h1>
         <p>
           Explore the boundaries of social science and history with TutUp's tutors
         </p>
