@@ -15,7 +15,7 @@ function Home() {
           <CatCard key={card.id} card={card} />
         ))}
       </Slide>
-      <div className="explore">
+      <div className="explore ">
         <div className="container">
           <h1>Explore the marketplace</h1>
           <div className="items">
