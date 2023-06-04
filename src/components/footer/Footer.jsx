@@ -30,8 +30,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Teaching on TutUp</span>
-            <span>Buying on TutUp</span>
+            <span>Teaching on findEducator</span>
+            <span>Buying on findEducator</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -41,11 +41,11 @@ function Footer() {
             <span>Become a Tutor</span>
           </div>
           <div className="item">
-            <h2>More From TutUp</h2>
-            <span>TutUp Guides</span>
+            <h2>More From findEducator</h2>
+            <span>findEducator Guides</span>
             <span>Get Inspired</span>
-            <span>TutUp Select</span>
-            <span>TutUp Workspace</span>
+            <span>findEducator Select</span>
+            <span>findEducator Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>
@@ -53,8 +53,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>tutup</h2>
-            <span>© TutUp International Ltd. 2023</span>
+            <h2>findEducator</h2>
+            <span>© findEducator International Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">

@@ -22,10 +22,10 @@ function Gigs() {
   return (
     <div className="gigs">
       <div className="container">
-        <span className="breadcrumbs">TutUp > History ></span>
+        <span className="breadcrumbs">findEducator > History ></span>
         <h1>History Tutors</h1>
         <p>
-          Explore the boundaries of social science and history with TutUp's tutors
+          Explore the boundaries of social science and history with findEducator's tutors
         </p>
         <div className="menu">
           <div className="left">

@@ -1,6 +1,6 @@
-# Tutup project
+# findEducator project
 
-Tutup is a platform for tutors and tutees.
+findEducator is a platform for tutors and tutees.
 
 ## Installation
 

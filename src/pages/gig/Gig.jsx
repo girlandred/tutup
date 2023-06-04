@@ -7,7 +7,7 @@ function Gig() {
     <div className="gig">
       <div className="container">
         <div className="left">
-          <span className="breadcrumbs">TutUp > Programming ></span>
+          <span className="breadcrumbs">findEducator > Programming ></span>
           <h1>I will tutor u in programming area and take a lot of money</h1>
           <div className="user">
             <img
@@ -126,7 +126,7 @@ function Gig() {
               </div>
               <p>
                 I just want to say that course_work_for_5 was the first, and after
-                this, the only tutor Ill be using on TutUp. Communication was
+                this, the only tutor Ill be using on findEducator. Communication was
                 amazing, each and every day he sent me new pages that I was free to
                 request changes to. He listened, understood, and delivered
                 above and beyond my expectations. I absolutely recommend this
